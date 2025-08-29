@@ -1,0 +1,11 @@
+const express = require('express');
+const router = express.Router();
+const foodItemController = require('../controllers/foodItem');
+const auth = require('../middleware/auth');
+const role = require('../middleware/role');
+router.get('/', foodItemController.getAllFoodItems);
+router.get('/:id', foodItemController.getFoodItemById);
+router.delete('/:id', foodItemController.deleteFoodItem);
+router.put('/:id', foodItemController.updateFoodItem);
+router.post('/', auth, role(['admin']), foodItemController.createFoodItem);
+module.exports = router;
