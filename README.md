@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This is an individual project where I built the backend system for an online food ordering platform.
+This is an project where I built the backend system for an online food ordering platform.
 The backend is developed using Node.js, Express, and MongoDB, providing APIs for managing users, food items, and orders.
 It also includes secure authentication, role-based access control, and payment integration.
 
