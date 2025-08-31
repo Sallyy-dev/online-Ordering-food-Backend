@@ -22,7 +22,7 @@ Place orders, view order history
 Integrated with Paymob API for online transactions 💳
 
 ⬛ Security
-Password encryption using bcrypt
+.Password encryption using bcrypt
 Proper error handling and validation
 
 🛠️ Tech Stack
@@ -37,3 +37,10 @@ Proper error handling and validation
 🔗 GitHub Repo: https://github.com/solygamal/online-Ordering-food-Backend.git
 
 🔗 LinkedIn Post: https://www.linkedin.com/posts/sally-gamal-aa630728a_webdevelopment-activity-7367602442089250817-1WpT?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEYrOV4BuCgB_qGw74HJEVGjW2MbG5jr8T8&utm_campaign=copy_link
+
+
+
+
+
+
+
