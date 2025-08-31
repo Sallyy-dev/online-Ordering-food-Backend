@@ -27,8 +27,11 @@ Proper error handling and validation
 
 🛠️ Tech Stack
 ⬛ Backend: Node.js, Express.js
+
 ⬛ Database: MongoDB
+
 ⬛ Authentication: JWT & bcrypt
+
 ⬛ Payment Gateway: Paymob API
 
 
